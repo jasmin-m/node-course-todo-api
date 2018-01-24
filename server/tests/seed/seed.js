@@ -17,7 +17,7 @@ const users = [{
 }, {
   _id: userTwoId,
   email: 'diego@example.com',
-  password: 'UserTwoPass'
+  password: 'userTwoPass'
 }];
 
 const todos = [{
